@@ -1,0 +1,5 @@
+Module and Package both are to be installed from the npm server 
+Module - to be installed again later to bring it in our system 
+Package - gets installed while installation of node --> 
+ - Package is already made code which can be used 
+ - To install any package means to use the code which is already made which is inn npm server and to bring it in our system 
