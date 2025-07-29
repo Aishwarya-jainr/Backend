@@ -1,1 +1,0 @@
-Notes with using database
